@@ -1,7 +1,7 @@
 # 42_MiniShell
 The objective of this project is for you to create a simple shell.
 
-My partner in crime for this project was [EcoGecko](https://github.com/EcoGecko)
+My partner in crime for this project was [EcoGecko](https://github.com/EcoGecko).
 
 # Instructions
 
